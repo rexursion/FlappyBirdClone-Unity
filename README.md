@@ -1,4 +1,4 @@
-# Flappy Bird Clone - Unity
+# 🐤 Flappy Bird Clone - Unity
 
 A simple **Flappy Bird** clone built with **Unity**. The game is inspired by the popular mobile game **Flappy Bird**, where the player controls a bird navigating through pipes. The goal is to avoid hitting the pipes and survive as long as possible.
 
