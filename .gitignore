@@ -1,0 +1,26 @@
+# Ignore Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Ll]ogs/
+Packages/
+UserSettings/
+
+# Ignore build folders and large files (if generated)
+Build/
+Builds/
+
+# Ignore temporary and cache files
+*.bak
+*.swp
+*.tmp
+*.log
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore Unity auto-generated files
+*.pidb
+*.suo
+*.user
+*.userprefs
